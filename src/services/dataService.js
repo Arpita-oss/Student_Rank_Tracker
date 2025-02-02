@@ -5,15 +5,15 @@ class DataService {
     try {
       // First API call
       const response1 = await axios.get('https://api.jsonserve.com/XgAgFJ');
-      console.log('Fetched Data 1:', response1.data);
+      console.log('Fetched Data 1 success');
 
       // Second API call
       const response2 = await axios.get('https://api.jsonserve.com/rJvd7g');
-      console.log('Fetched Data 2:', response2.data);
+      console.log('Fetched Data 2 success');
 
       // Third API call
-      const response3 = await axios.get('https://jsonkeeper.com/b/LLQT');
-      console.log('Fetched Data 3:', response3.data);
+      const response3 = await axios.get('https://www.jsonkeeper.com/b/LLQT');
+      console.log('Fetched Data 3 success');
 
       // Return all data in a structured format
       return {
