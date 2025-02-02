@@ -1,5 +1,6 @@
 const { GoogleGenerativeAI } = require("@google/generative-ai");
-const genAI = new GoogleGenerativeAI("AIzaSyBiZytOdJtrgYlWoET1i8pxksdJBHdzlBQ");
+require('dotenv').config();
+const genAI = new GoogleGenerativeAI("AIzaSyBiZytOdJtrgYlWoET1i8pxksdJBHdzlBQ ");
 const router = require("../routes/dataRoutes");
 const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
 
