@@ -1,6 +1,6 @@
 ﻿# Student_Rank_Tracker
 Student Rank Predictor
-![image alt](https://github.com/Arpita-oss/Student_Rank_Tracker/blob/1048dd58b363888731ed640e6cf0f8e11638fc18/Screenshot%202025-02-02%20230059.png)
+![image alt](https://github.com/Arpita-oss/Student_Rank_Tracker/blob/8838db77f5c1611dc2e962c478d8d158cbfd402d/Screenshot%202025-02-02%20230059.png)
 
 Overview
 
