@@ -80,7 +80,7 @@ Use past 5 quizzes to analyze performance trends.
 
 Calculate accuracy, topic-wise performance, and improvement trends.
 
-Apply machine learning or probabilistic models to predict rank based on historical NEET results.
+Apply machine learning or probabilistic models to predict rank based on historical NEET results.(used GOGGLE GEMINI MODEL)
 
 3)Rank Prediction:
 
