@@ -110,7 +110,7 @@ This project is open-source and available under the **MIT License**.
 
 ### Contributors
 
-Developed by **Arpita** and contributors. Feel free to contribute to the project!
+Developed by **Arpita**. Feel free to contribute to the project!
 
 ---
 
