@@ -67,7 +67,7 @@ Ensure you have the following installed:
    ```sh
    PORT=5000
    GEMINI_API_KEY="" # or directly put it into gemini.js
-   MONGODB_URL=mongodb://localhost:27017/student_rank_db
+   MONGODB_URL= #yur atlas string
    ```
 
 4. **Run the Server:**
