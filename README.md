@@ -80,7 +80,7 @@ Ensure you have the following installed:
    ```
 
 5. **Access the Application:**
-   Open [http://localhost:5000](http://localhost:5000) in your browser.
+   Open (https://student-rank-tracker.onrender.com/) in your browser.
 
 ---
 
